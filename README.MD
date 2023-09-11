@@ -11,7 +11,7 @@ Instrução de uso:
 
 * Clonar o repositorio para o computador
 * entrar via cmd na pasta do projeto e rodar o comando "dotnet run"
-* apos isto selecionar sua escolha.
+* apos isto fazer sua escolha.
 
 -> Todo arquivo deve ser incluido/salvo na pasta "RootFolder" que será gerado automaticamente pelo sistema.
 
